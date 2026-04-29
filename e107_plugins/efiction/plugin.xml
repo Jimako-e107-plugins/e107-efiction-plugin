@@ -14,6 +14,6 @@
 		<link url="admin.php" description="" icon="images/icon_64.png" iconSmall="images/icon_16.png"  icon128="images/icon_128.png"  primary="true" >LAN_CONFIGURE</link>
 	</adminLinks>
     <screenshots>
-		<image>images/efiction.jpg</image>
+		<image>images/efiction.png</image>
 	</screenshots>
 </e107Plugin>
